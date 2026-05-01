@@ -32,7 +32,7 @@ Tenho interesse em projetos relacionados a:
 Busco constantemente aprimorar minhas habilidades técnicas através de laboratórios, projetos acadêmicos e ambientes reais de infraestrutura.
 
 
-🚀 Habilidades Técnicas
+### 🚀 Habilidades Técnicas
 
 
 ### 💻 Linguagens de Programação
